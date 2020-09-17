@@ -1,2 +1,2 @@
 # Mancala-Prelimnary
-Basic functional code for current BE project
+Mancala: An Instructive and Interactive Initiative in Educating the Child
